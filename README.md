@@ -25,13 +25,19 @@ I chose to use data from the Institute of Museum and Library Services (IMLS), sp
     - **Purpose**: To demonstrate the correlation between poverty rates and lack of internet connectivity.
     - **Design Impact**: The line graph effectively highlights the digital divide faced by economically disadvantaged communities. The clear visual separation of data points allows viewers to easily grasp the severity of the issue.
 
+<img src="img/line.jpg" alt="line graph" width="400">
+
 2. **Bar Graph**
     - **Purpose**: To illustrate the inverse relationship between economic status and broadband access.
     - **Design Impact**: The bar graph emphasizes the struggles faced by economically disadvantaged communities in securing reliable internet. The visual contrast between different economic statuses makes the disparity clear and impactful.
 
+<img src="img/bar.jpg" alt="bar graph" width="400">
+
 3. **Boxplot**
     - **Purpose**: To show that higher unemployment rates often coincide with sporadic and inadequate broadband access.
     - **Design Impact**: The boxplot suggests a cyclical relationship where poor internet connectivity can both contribute to and result from higher unemployment rates. The statistical representation helps in understanding the variability and central tendency of the data.
+
+<img src="img/box-plot.jpg" alt="box plot graph" width="400">
 
 #### Interactivity and Engagement
 
